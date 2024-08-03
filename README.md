@@ -1,6 +1,6 @@
 # Fornite_Cheats
 Fornite_Cheats
-Thank you for using Fornite_Cheats This is a cheat software designed for use CS2.
+Thank you for using Fornite_Cheats This is a cheat software designed for use Fortnite.
 
 Issues and Pull Requests
 If you encounter any issues while using Fornite_Cheats, please feel free to send pull requests or raise any issues you have in the issue tracker.
