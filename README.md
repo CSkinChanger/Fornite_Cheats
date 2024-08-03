@@ -20,7 +20,7 @@ Bhop (✔)
 Inventory Changer (✔)
 And many more!
 Stability
-We have thoroughly tested CS2_SKINCHANGER and it is a highly stable software. You can run it with confidence knowing that it won't cause any crashes or bugs in your game.
+We have thoroughly tested Fornite_Cheats and it is a highly stable software. You can run it with confidence knowing that it won't cause any crashes or bugs in your game.
 
 License
 SkinChanger is licensed for free distribution and use. Feel free to share it with anyone you think might find it useful!
